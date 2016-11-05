@@ -9,3 +9,5 @@ GreaseMonkey : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/
 Deckbox : https://deckbox.org/
 
 This script use https://mtgjson.com/ to retrieve all cards translations.
+
+Have fun !
