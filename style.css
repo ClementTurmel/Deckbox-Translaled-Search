@@ -1,0 +1,14 @@
+ #results2 tr:hover{
+  background-color:#D8F6CE;
+  cursor:pointer;
+}
+
+ #results2 tr{
+	text-align:left;
+
+ }
+
+#results2 th{
+    border: 1px solid #ddd;
+	padding: 2px;
+}
