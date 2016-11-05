@@ -10,4 +10,4 @@ Deckbox : https://deckbox.org/
 
 This script use https://mtgjson.com/ to retrieve all cards translations.
 
-Have fun !
+Have fun :) !
