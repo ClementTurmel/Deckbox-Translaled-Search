@@ -6,7 +6,7 @@
 // @require 	https://code.jquery.com/jquery-3.1.0.js
 // @require 	https://raw.githubusercontent.com/Clemaul/Deckbox-Translaled-Search/master/removeDiacritics.js
 // @resource    customCSS  https://raw.githubusercontent.com/Clemaul/Deckbox-Translaled-Search/master/style.css
-// @version     6
+// @version     7
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
 // ==/UserScript==
@@ -24,7 +24,7 @@ $( document ).ready(function() {
 
 
   $.ajax({
-    url: "https://blog.clement.turmel.info/data//AllSets-x.json",
+    url: "https://raw.githubusercontent.com/Clemaul/Deckbox-Translaled-Search/master/AllSets-x.json",
     type: 'GET',
     crossDomain: true,
     dataType: 'json',
