@@ -4,8 +4,8 @@
 // @description Deckbox multilingual search
 // @include     https://deckbox.org/*
 // @require 	https://code.jquery.com/jquery-3.1.0.js
-// @require 	https://blog.clement.turmel.info/data/removeDiacritics.js
-// @resource    customCSS  https://blog.clement.turmel.info/data/style.css
+// @require 	https://raw.githubusercontent.com/Clemaul/Deckbox-Translaled-Search/master/removeDiacritics.js
+// @resource    customCSS  https://raw.githubusercontent.com/Clemaul/Deckbox-Translaled-Search/master/style.css
 // @version     5
 // @grant       GM_addStyle
 // @grant       GM_getResourceText
